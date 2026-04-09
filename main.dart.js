@@ -91576,7 +91576,7 @@ r=t.p
 s=A.b([A.bP(q,A.bu(A.b([A.aF("Welcome to Axis Credit Card Services",q,q,q,q,A.eP().$3$color$fontSize$fontWeight($.cz(),22,B.N),q,q,q),B.di,A.aF("View account summary, check available credit, track rewards, and securely manage all your cards.",q,q,q,q,A.eP().$2$color$fontSize(B.E,14),q,q,q)],r),B.ab,B.r,B.u),B.l,s,q,q,q,q,q,B.cc,q,q,1/0),B.fM,B.DR,B.bM],r)
 if(p.f)s.push(B.G7)
 s.push(B.bM)
-s.push(new A.pV("Card Protection & Security","Safeguard your credit cards against unauthorized transactions, report lost/stolen cards, and activate instant blocks.",A.b([new A.kv(" Activate Card ",B.HS,new A.arP(p),q),new A.kv("Deactivate Card",B.I7,new A.arQ(p),q)],r),q))
+s.push(new A.pV("Card Protection & Security","Safeguard your credit cards against unauthorized transactions, report lost/stolen cards, and activate instant blocks.",A.b([new A.kv(" Activate ",B.HS,new A.arP(p),q),new A.kv("Deactivate",B.I7,new A.arQ(p),q)],r),q))
 s.push(B.k5)
 s.push(new A.pV("Reward Points & Offers","Check your reward points balance, redeem points for exciting offers, and access exclusive vouchers.",A.b([new A.kv("Redeem Points",B.I8,new A.arR(p),q)],r),q))
 s.push(B.k5)
